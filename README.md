@@ -17,8 +17,8 @@ Exercice in which we had to setup a network following these constraints and requ
 
 ## Guidelines:
 
-**Scalability and Manageability:** Design a network that can accommodate future growth without compromising efficiency.
-**Resource Optimization:** Allocate resources strategically, considering costs and future needs.
-**Clear Documentation:** Document IP addressing, VLANs (if used), and device configurations meticulously.
-**Robust Security:** Implement measures like ACLs, strong passwords, and encryption (where applicable).
-**Cost-Effectiveness:** Make budget-conscious choices in equipment selection and configuration.
+- **Scalability and Manageability:** Design a network that can accommodate future growth without compromising efficiency.
+- **Resource Optimization:** Allocate resources strategically, considering costs and future needs.
+- **Clear Documentation:** Document IP addressing, VLANs (if used), and device configurations meticulously.
+- **Robust Security:** Implement measures like ACLs, strong passwords, and encryption (where applicable).
+- **Cost-Effectiveness:** Make budget-conscious choices in equipment selection and configuration.
